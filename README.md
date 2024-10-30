@@ -22,7 +22,8 @@ Test Adj-R2=0.762
 
 ## Contact
 Milind Awade
-github: 
 ML-C67
+https://github.com/MilindAwade/BikeSharingAssignment
+
 
 
